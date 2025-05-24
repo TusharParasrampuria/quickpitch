@@ -48,7 +48,7 @@ QuickPitch is a lightweight Streamlit app that helps entrepreneurs and innovator
 
 4. Run the app:
     ```bash
-    streamlit run quickpitch_app.py
+    streamlit run app.py
     ```
 
 # 🌐 Deploy to Streamlit Cloud
