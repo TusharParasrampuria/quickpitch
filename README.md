@@ -54,7 +54,7 @@ QuickPitch is a lightweight Streamlit app that helps entrepreneurs and innovator
 # 🌐 Deploy to Streamlit Cloud
 1. Push the repo to GitHub
 2. Go to https://streamlit.io/cloud
-3. Click New App → Connect to GitHub → Select quickpitch_app.py
+3. Click New App → Connect to GitHub → Select app.py
 4. Add the following Secrets in Settings:
     ```toml
     GROQ_API_KEY = your-key-here
