@@ -58,7 +58,6 @@ QuickPitch is a lightweight Streamlit app that helps entrepreneurs and innovator
 4. Add the following Secrets in Settings:
     ```toml
     GROQ_API_KEY = your-key-here
-    OPENROUTER_API_KEY = your-key-here
     ```
 5. Click Deploy — you're live in seconds
 
