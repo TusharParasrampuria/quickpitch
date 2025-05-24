@@ -43,7 +43,7 @@ QuickPitch is a lightweight Streamlit app that helps entrepreneurs and innovator
 
 3. Set your API keys in .env:
     ```toml
-    GROQ_API_KEY=your-groq-api-key
+    GROQ_API_KEY="your-groq-api-key"
     ```
 
 4. Run the app:
@@ -57,7 +57,7 @@ QuickPitch is a lightweight Streamlit app that helps entrepreneurs and innovator
 3. Click New App → Connect to GitHub → Select app.py
 4. Add the following Secrets in Settings:
     ```toml
-    GROQ_API_KEY = your-key-here
+    GROQ_API_KEY = "your-groq-api-key"
     ```
 5. Click Deploy — you're live in seconds
 
